@@ -1,5 +1,5 @@
 # el.js
-superminimal element dom helper in ~20 lines
+superminimal dom element helper in ~20 lines
 
 for people, who like vanilla js, but don't want to type ```document.getElementById()```, ```document.getElementsByClassName()``` or ```element.addEventListener()```  all the time.
 
