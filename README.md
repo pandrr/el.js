@@ -4,9 +4,9 @@ superminimal element dom helper
 
 ### examples
 
-```
+````
 el('#hund').innerHTML="katze";
-```
+````
 
 ```
 el("#test").style.left="0px";
