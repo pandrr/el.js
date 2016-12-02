@@ -2,7 +2,7 @@
 superminimal element dom helper
 
 
-## examples
+### examples
 
 ```
 el('#hund').innerHTML="katze";
