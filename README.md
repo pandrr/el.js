@@ -4,7 +4,7 @@ superminimal element dom helper in ~20 lines
 ### examples
 
 Select element by ID
-```
+```js
 var ele=el('#hund');
 ```
 
