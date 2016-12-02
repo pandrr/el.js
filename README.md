@@ -1,6 +1,9 @@
 # el.js
 superminimal element dom helper
 
+
+# examples
+
 ```
 el('#hund').innerHTML="katze";
 ```
