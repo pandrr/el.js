@@ -1,6 +1,8 @@
 # el.js
 superminimal element dom helper in ~20 lines
 
+for people, who don't want to write ```document.getElemebtById()``` ,```document.getElemebtsByClassName()``` ,```element.addEventListener()```  all the time and also not use jquery because of that
+
 ### examples
 
 Select element by ID
