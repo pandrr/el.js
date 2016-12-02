@@ -1,17 +1,16 @@
 # el.js
 superminimal element dom helper
 
-
 ```
-el("#loading").style.position="absolute";
-```
-
-```
-el("#loading").style.left="0px";
+el('#hund').innerHTML="katze";
 ```
 
 ```
-el("#loading").on("transitionend",function(){ console.log(1234); } );
+el("#test").style.left="0px";
+```
+
+```
+el('#hund').on("click",function(){ console.log("ok"); })
 ```
 
 ```
